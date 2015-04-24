@@ -1,7 +1,7 @@
 .NET API samples for Westhill Mail
 =========
 
-This repository contains sample projects, in either .NET 2 or .NET 4, showing how to do some common tasks with the Westhill Mail API APIs.
+This repository contains sample projects .NET 4 showing how to do some common tasks with the Westhill Mail API APIs.
 
 Westhill Mail API has two flavours of API, which both can perform the same functions. There is an API that uses SOAP, and an API that is RESTful. You can choose to use either one, or even both, depending on which technology you prefer. 
 
