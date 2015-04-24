@@ -11,12 +11,10 @@ We encourage pull requests - please do contribute if you have any updates or bug
 
 You find more detail about our API on http://www.westhill.co.uk/api/mail/
 
-Manual for Microsoft Windows
-=========
+#### Manual for Microsoft Windows
 Download the manual for Microsoft Windows from http://www.westhill.co.uk/api/apps/WesthillMailAPI.exe
 
-Manual for OSX
-=========
+#### Manual for OSX
 Download the manual for OSX from http://www.westhill.co.uk/api/apps/WesthillMailAPI.zip
 To open the app you follow this instructions:
   1. In the Finder, locate the app you want to open. Don’t use Launchpad to do this. Launchpad doesn’t allow you to access the shortcut menu.
