@@ -19,10 +19,10 @@ Manual for OSX
 =========
 Download the manual for OSX from http://www.westhill.co.uk/api/apps/WesthillMailAPI.zip
 To open the app you follow this instructions:
-  In the Finder, locate the app you want to open. Don’t use Launchpad to do this. Launchpad doesn’t allow you to access the shortcut menu.
-  Press the Control key, then click the app icon.
-  Choose Open from the shortcut menu.
-  Click Open.
+  1. In the Finder, locate the app you want to open. Don’t use Launchpad to do this. Launchpad doesn’t allow you to access the shortcut menu.
+  2. Press the Control key, then click the app icon.
+  3. Choose Open from the shortcut menu.
+  4. Click Open.
 The app is saved as an exception to your security settings, and you will be able to open it in the future by double-clicking it, just like any registered app.
 
 #### Credentials
