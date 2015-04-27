@@ -17,10 +17,10 @@ Download the manual for Microsoft Windows from http://www.westhill.co.uk/api/app
 Download the manual for OSX from http://www.westhill.co.uk/api/apps/WesthillMailAPI.zip 
 
 To open the app:
-1. In the Finder, locate the required app. Don’t use Launchpad to do this as Launchpad doesn’t allow access to the shortcut menu.
-2. Press the Control key and then click the app icon.
-3. Choose Open from the shortcut menu.
-4. Click Open. The app is saved as an exception to security settings, and it will be possible to open it in the future by double-clicking it, just like any registered app.
+  1. In the Finder, locate the required app. Don’t use Launchpad to do this as Launchpad doesn’t allow access to the shortcut menu.
+  2. Press the Control key and then click the app icon.
+  3. Choose Open from the shortcut menu.
+  4. Click Open. The app is saved as an exception to security settings, and it will be possible to open it in the future by double-clicking it, just like any registered app.
 
 
 #### Credentials
