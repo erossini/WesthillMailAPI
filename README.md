@@ -8,8 +8,10 @@ Please be aware that the Westhill Mail API has usage limits – please use bulk 
 Pull requests are encouraged. Please contribute any updates or bug fixes.
 For more details about Westhill API, visit http://www.westhill.co.uk/api/mail
 
+
 #### Manual for Microsoft Windows
 Download the manual for Microsoft Windows from http://www.westhill.co.uk/api/apps/WesthillMailAPI.exe
+
 
 #### Manual for OSX
 Download the manual for OSX from http://www.westhill.co.uk/api/apps/WesthillMailAPI.zip 
@@ -19,6 +21,7 @@ To open the app:
 2.	Press the Control key and then click the app icon.
 3.	Choose Open from the shortcut menu.
 4.	Click Open. The app is saved as an exception to security settings, and it will be possible to open it in the future by double-clicking it, just like any registered app.
+
 
 #### Credentials
 These demo credentials allow a review of a typical API response to each method or operation. However, this is not a sandbox – data sent using these demo credentials will not be persisted, and no emails will be sent in response to these API operations.
